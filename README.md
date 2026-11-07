@@ -15,9 +15,9 @@ macOS 剪贴板历史工具：自动记录复制的文字、图片和文件，�
 
 系统要求：macOS 26 及以上，Apple Silicon。
 
-1. 下载 [Cliphoard.zip](https://github.com/leadead/Cliphoard-Releases/releases/latest/download/Cliphoard.zip)（[所有版本](https://github.com/leadead/Cliphoard-Releases/releases)）
-2. 解压后把 Cliphoard 拖入「应用程序」
-3. 打开后按引导授予剪贴板访问和辅助功能权限
+1. 下载 [Cliphoard.dmg](https://github.com/leadead/Cliphoard-Releases/releases/latest/download/Cliphoard.dmg)（[所有版本](https://github.com/leadead/Cliphoard-Releases/releases)）
+2. 打开 DMG，把 Cliphoard 拖到「应用程序」文件夹
+3. 从「应用程序」打开 Cliphoard，按引导授予剪贴板访问和辅助功能权限；之后可以推出 DMG
 
 安装包已通过 Apple 公证。
 
